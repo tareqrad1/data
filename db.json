@@ -5,35 +5,35 @@
             "name": "Round Table Clock",
             "price": 44.00,
             "color": "black",
-            "image": "https://ibb.co/xsVzGq3"
+            "image": "https://images.unsplash.com/photo-1595147389795-37094173bfd8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGltYWdlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
         },
         {
             "id": 2,
             "name": "Smart Watch",
             "price": 250.00,
             "color": "black",
-            "image": "https://ibb.co/mJW7FR4"
+            "image": "https://images.unsplash.com/photo-1595147389795-37094173bfd8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGltYWdlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
         },
         {
             "id": 3,
             "name": "Clothes Basket",
             "price": 80.00,
             "color": "black",
-            "image": "https://ibb.co/Cztr13v"
+            "image": "https://images.unsplash.com/photo-1595147389795-37094173bfd8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGltYWdlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
         },
         {
             "id": 4,
             "name": "Funny toys for babies",
             "price": 10.00,
             "color": "mixed",
-            "image": "https://ibb.co/PNxN82J"
+            "image": "https://images.unsplash.com/photo-1595147389795-37094173bfd8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGltYWdlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
         },
         {
             "id": 5,
             "name": "Flower Base",
             "price": 24.10,
             "color": "white",
-            "image": "https://ibb.co/Qfj3cpb"
+            "image": "https://images.unsplash.com/photo-1595147389795-37094173bfd8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGltYWdlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
         },
         {
             "id": 6,
@@ -80,7 +80,7 @@
         {
             "id": 12,
             "name": "Sun glasses",
-            "price": "7.00",
+            "price": 7.00,
             "color": "black",
             "image": "https://ibb.co/txG6Jjq"
         }
