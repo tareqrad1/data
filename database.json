@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Round Table Clock",
+            "price": 44.00,
+            "color": "black",
+            "image": "https://ibb.co/xsVzGq3"
+        },
+        {
+            "id": 2,
+            "name": "Smart Watch",
+            "price": 250.00,
+            "color": "black",
+            "image": "https://ibb.co/mJW7FR4"
+        },
+        {
+            "id": 3,
+            "name": "Clothes Basket",
+            "price": 80.00,
+            "color": "black",
+            "image": "https://ibb.co/Cztr13v"
+        },
+        {
+            "id": 4,
+            "name": "Funny toys for babies",
+            "price": 10.00,
+            "color": "mixed",
+            "image": "https://ibb.co/PNxN82J"
+        },
+        {
+            "id": 5,
+            "name": "Flower Base",
+            "price": 24.10,
+            "color": "white",
+            "image": "https://ibb.co/Qfj3cpb"
+        },
+        {
+            "id": 6,
+            "name": "New Backpack",
+            "price": 170.30,
+            "color": "gray",
+            "image": "https://ibb.co/S3WC7Lb"
+        },
+        {
+            "id": 7,
+            "name": "Household materials",
+            "price": 25.01,
+            "color": "mixed",
+            "image": "https://ibb.co/8PtdcMP"
+        },
+        {
+            "id": 8,
+            "name": "Travel Bag",
+            "price": 210.00,
+            "color": "black",
+            "image": "https://ibb.co/LRXZm7D"
+        },
+        {
+            "id": 9,
+            "name": "Cap for Boys",
+            "price": 27.99,
+            "color": "white",
+            "image": "https://ibb.co/FBvG2fG"
+        },
+        {
+            "id": 10,
+            "name": "Tea Table",
+            "price": 100.30,
+            "color": "black",
+            "image": "https://ibb.co/xJz24NZ"
+        },
+        {
+            "id": 11,
+            "name": "Headphones",
+            "price": 300.00,
+            "color": "red",
+            "image": "https://ibb.co/SKd6MNt"
+        },
+        {
+            "id": 12,
+            "name": "Sun glasses",
+            "price": "7.00",
+            "color": "black",
+            "image": "https://ibb.co/txG6Jjq"
+        }
+    ]
+}
