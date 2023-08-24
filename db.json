@@ -5,84 +5,96 @@
             "name": "Round Table Clock",
             "price": 44.00,
             "color": "black",
-            "image": "https://i.ibb.co/TTzPRMr/clock-Table.webp"
+            "image": "https://i.ibb.co/TTzPRMr/clock-Table.webp",
+            "new": false
         },
         {
             "id": 2,
             "name": "Smart Watch",
             "price": 250.00,
             "color": "black",
-            "image": "https://i.ibb.co/wym1rd4/smart-Watch.webp"
+            "image": "https://i.ibb.co/wym1rd4/smart-Watch.webp",
+            "new": true
         },
         {
             "id": 3,
             "name": "Clothes Basket",
             "price": 80.00,
             "color": "black",
-            "image": "https://i.ibb.co/JKdhBw2/cloth-Basket.webp"
+            "image": "https://i.ibb.co/JKdhBw2/cloth-Basket.webp",
+            "new": false
         },
         {
             "id": 4,
             "name": "Funny toys for babies",
             "price": 10.00,
             "color": "mixed",
-            "image": "https://i.ibb.co/Tkck5QJ/funny-Toys.webp"
+            "image": "https://i.ibb.co/Tkck5QJ/funny-Toys.webp",
+            "new": true
         },
         {
             "id": 5,
             "name": "Flower Base",
             "price": 24.10,
             "color": "white",
-            "image": "https://i.ibb.co/2yY16Wn/flower-Base.webp"
+            "image": "https://i.ibb.co/2yY16Wn/flower-Base.webp",
+            "new": false
         },
         {
             "id": 6,
             "name": "New Backpack",
             "price": 170.30,
             "color": "gray",
-            "image": "https://i.ibb.co/G5BS3hy/backPage.webp"
+            "image": "https://i.ibb.co/G5BS3hy/backPage.webp",
+            "new": false
         },
         {
             "id": 7,
             "name": "Household materials",
             "price": 25.01,
             "color": "mixed",
-            "image": "https://i.ibb.co/1Rjd6ZR/soup.webp"
+            "image": "https://i.ibb.co/1Rjd6ZR/soup.webp",
+            "new": true
         },
         {
             "id": 8,
             "name": "Travel Bag",
             "price": 210.00,
             "color": "black",
-            "image": "https://i.ibb.co/H4fH68L/travel-Bag.webp"
+            "image": "https://i.ibb.co/H4fH68L/travel-Bag.webp",
+            "new": false
         },
         {
             "id": 9,
             "name": "Cap for Boys",
             "price": 27.99,
             "color": "white",
-            "image": "https://i.ibb.co/THXz6nz/skert.webp"
+            "image": "https://i.ibb.co/THXz6nz/skert.webp",
+            "new": false
         },
         {
             "id": 10,
             "name": "Tea Table",
             "price": 100.30,
             "color": "black",
-            "image": "https://i.ibb.co/Pw1rSdk/table.webp"
+            "image": "https://i.ibb.co/Pw1rSdk/table.webp",
+            "new": true
         },
         {
             "id": 11,
             "name": "Headphones",
             "price": 300.00,
             "color": "red",
-            "image": "https://i.ibb.co/Xz3WKX7/microfone.webp"
+            "image": "https://i.ibb.co/Xz3WKX7/microfone.webp",
+            "new": false
         },
         {
             "id": 12,
             "name": "Sun glasses",
             "price": 7.00,
             "color": "black",
-            "image": "https://i.ibb.co/CMcyHCb/glasses.webp"
+            "image": "https://i.ibb.co/CMcyHCb/glasses.webp",
+            "new": true
         }
     ]
 }
